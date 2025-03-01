@@ -11,7 +11,7 @@ body {
 
 /* Header */
 header {
-    background: #28a745;
+    background: #fc982e;
     color: white;
     text-align: center;
     padding: 20px;
@@ -103,6 +103,7 @@ button:hover {
     background: #218838;
     transform: scale(1.05);
 }
+
 
 /* Footer */
 footer {
